@@ -1,0 +1,7 @@
+<svg id="vuesax_linear_archive-tick" data-name="vuesax/linear/archive-tick" xmlns="http://www.w3.org/2000/svg" width="14.22" height="14.22" viewBox="0 0 14.22 14.22">
+  <g id="archive-tick">
+    <path id="Vector" d="M8,0H2.287A2.292,2.292,0,0,0,0,2.287v8.348c0,1.066.764,1.517,1.7,1l2.891-1.606a1.255,1.255,0,0,1,1.108,0l2.891,1.606c.936.521,1.7.071,1.7-1V2.287A2.3,2.3,0,0,0,8,0Z" transform="translate(1.967 1.185)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Vector-2" data-name="Vector" d="M0,1.481l.889.889L3.259,0" transform="translate(5.682 5.036)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Vector-3" data-name="Vector" d="M0,0H14.22V14.22H0Z" fill="none" opacity="0"/>
+  </g>
+</svg>

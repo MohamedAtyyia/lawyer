@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "953195628575",
+    "project_id": "laywer2-e726d",
+    "storage_bucket": "laywer2-e726d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953195628575:android:9a053035812336f2856d2a",
+        "android_client_info": {
+          "package_name": "com.visooft.muslawyer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0PGPKb5SwDtThkhLVKxbVrFszaT7F4Ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953195628575:android:4c3cd3e11c2919dd856d2a",
+        "android_client_info": {
+          "package_name": "com.visooft.muslawyerUser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0PGPKb5SwDtThkhLVKxbVrFszaT7F4Ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
